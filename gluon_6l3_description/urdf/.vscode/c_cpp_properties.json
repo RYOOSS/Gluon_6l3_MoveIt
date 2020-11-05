@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/ryoo/innfos/innfos_ws/devel/include/**",
+                "/home/ryoo/catkin_ws/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/ryoo/innfos/innfos_ws/src/actuatorcontroller_ros/include/**",
+                "/home/ryoo/catkin_ws/src/beginner_tutorials/include/**",
+                "/home/ryoo/catkin_ws/src/learning_parameter/include/**",
+                "/home/ryoo/catkin_ws/src/learning_service/include/**",
+                "/home/ryoo/catkin_ws/src/learning_tf/include/**",
+                "/home/ryoo/catkin_ws/src/learning_topic/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}
